@@ -1,0 +1,15 @@
+{
+    "register_form": "Registration Form",
+    "full_name": "Full Name",
+    "name_hint": "Enter your name",
+    "phone": "Phone Number",
+    "phone_hint": "Enter your phone number",
+    "email": "Email",
+    "email_hint": "Enter your email",
+    "country": "Country",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "submit": "Submit",
+    "phone_invalid": "Invalid phone number"
+  }
+  
